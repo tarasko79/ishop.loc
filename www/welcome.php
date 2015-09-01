@@ -5,7 +5,9 @@
  *   
  */
 
-    echo "велком";
+    echo 'Welcome';
+    echo '<br>';
+    echo 'Втаю Вас';
 
 
 ?>
